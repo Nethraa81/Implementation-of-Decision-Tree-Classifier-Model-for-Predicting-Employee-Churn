@@ -32,19 +32,24 @@ RegisterNumber: 24900193
 ## Output:
 ![decision tree classifier model](sam.png)
 
-![Screenshot 2024-11-28 185721](https://github.com/user-attachments/assets/76fe81c6-de9a-4a27-bb46-df6183935d83)
+![Screenshot 2024-11-29 053531](https://github.com/user-attachments/assets/1f11b7bb-cb3a-44ae-9074-efead2933344)
 
-![Screenshot 2024-11-28 190523](https://github.com/user-attachments/assets/fda0eb09-4794-4271-8309-98e106b44b92)
+![Screenshot 2024-11-29 053551](https://github.com/user-attachments/assets/531bef8d-6c17-4722-90a2-deed57b2b46f)
 
-![Screenshot 2024-11-28 185740](https://github.com/user-attachments/assets/6344c71a-cbc9-435b-a932-5cd239c57ff3)
+![Screenshot 2024-11-29 053601](https://github.com/user-attachments/assets/eb935b3c-6e70-4558-a2f4-d4bf4f2d7c24)
 
-![Screenshot 2024-11-28 185821](https://github.com/user-attachments/assets/f410d65e-d6c2-4a27-a90b-5571d33e1735)
+![Screenshot 2024-11-29 053608](https://github.com/user-attachments/assets/c3f36ff4-4c1a-486a-b86d-f430212ef19a)
 
-![Screenshot 2024-11-28 191221](https://github.com/user-attachments/assets/b91ebf8b-6e89-4bfb-8fcd-a05d1f4599b1)
+![Screenshot 2024-11-29 053624](https://github.com/user-attachments/assets/a78b9c4c-9780-4117-8a77-8650dbc7a5fc)
 
-![Screenshot 2024-11-28 190616](https://github.com/user-attachments/assets/f02618fa-9962-4ea8-b304-f0c3db4ae969)
+![Screenshot 2024-11-29 053643](https://github.com/user-attachments/assets/7c89555d-7d80-4225-810b-7b4d1d4a3166)
 
-![Screenshot 2024-11-28 190629](https://github.com/user-attachments/assets/48bb03ef-827d-4e51-946d-99d0edd1e01f)
+![Screenshot 2024-11-29 053653](https://github.com/user-attachments/assets/64980621-ae68-4bc3-9a88-77dfb5d054f6)
+
+![Screenshot 2024-11-29 053707](https://github.com/user-attachments/assets/41f23270-6ea1-430e-8fc2-6be7589777a1)
+
+![Screenshot 2024-11-29 053718](https://github.com/user-attachments/assets/e1fb2b71-40e1-4057-b7c0-75193d87bae3)
+
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
